@@ -1,0 +1,10 @@
+node_modules/
+dist/
+bundles/*
+!bundles/.gitkeep
+uploads/*
+!uploads/.gitkeep
+logs/*
+!logs/.gitkeep
+.env
+*.log
